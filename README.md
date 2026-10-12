@@ -1,4 +1,4 @@
-# [Thesis: PUBLIC EXPENDITURES IN BRAZIL: An analysis of gender and race transversality in the federal budget]
+# Thesis: PUBLIC EXPENDITURES IN BRAZIL: An analysis of gender and race transversality in the federal budget
 # larissa rosa undergraduate thesis - Universidade Federal de Minas Gerais (UFMG)
 
 Repository of the script and data for the undergraduate thesis in economics at UFMG. 
