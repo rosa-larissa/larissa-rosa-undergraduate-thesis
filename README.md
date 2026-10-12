@@ -18,8 +18,8 @@ The study combines two approaches:
 To ensure full reproducibility, this project uses public microdata. The main datasets required for its execution are:
 **POF 2017–2018 (Brazillian Household Budget Survey):**
 
-*Reproducibility Note: Since the original microdata exceed GitHub's size limit, please download the datasets from the links [https://drive.google.com/drive/folders/1ESkstHIq6g2Ms7vSLdPtIL_q0UxSHZVt?usp=sharing] 
-In the “Dados20230713” folder, you will find all the .RDS files needed to reproduce the code. You can also find the original files through the IBGE website [https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pof-2017-2018.html?=&t=microdados] .*
+*Reproducibility Note: Since the original microdata exceed GitHub's size limit, please download the datasets from the links https://drive.google.com/drive/folders/1ESkstHIq6g2Ms7vSLdPtIL_q0UxSHZVt?usp=sharing 
+In the “Dados20230713” folder, you will find all the .RDS files needed to reproduce the code. You can also find the original files through the IBGE website https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pof-2017-2018.html?=&t=microdados .*
 
 Once you have downloaded the data from the drive, simply run the script titled “1. Larissa Rosa Script.” This code processes all the data on households and individuals, producing a single table that serves as the basis for conducting various analyses. 
 
@@ -36,7 +36,7 @@ The results support gender and race responsive budgeting applied across governme
 
 ## Authorship and Citation
 
-Research conducted by **[Larissa Rosa - www.linkedin.com/in/larissa-rosa-ms]**.
+Research conducted by **Larissa Rosa - www.linkedin.com/in/larissa-rosa-ms**.
 
 If you use any part of this code or methodology as a reference in your work, please use the citation below:
 > [Rosa, Larissa]. (2023). *[PUBLIC EXPENDITURES IN BRAZIL: An analysis of gender and race transversality in the federal budget]*. [UFMG]. GitHub Repository: [(https://github.com/rosa-larissa/larissa-rosa-undergraduate-thesis/tree/main)]
