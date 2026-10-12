@@ -39,4 +39,4 @@ The results support gender and race responsive budgeting applied across governme
 Research conducted by **Larissa Rosa - www.linkedin.com/in/larissa-rosa-ms**.
 
 If you use any part of this code or methodology as a reference in your work, please use the citation below:
-> Rosa, Larissa (2023). *[PUBLIC EXPENDITURES IN BRAZIL: An analysis of gender and race transversality in the federal budget]*. [UFMG]. GitHub Repository: [(https://github.com/rosa-larissa/larissa-rosa-undergraduate-thesis/tree/main)]
+> Rosa, Larissa (2023). *[PUBLIC EXPENDITURES IN BRAZIL: An analysis of gender and race transversality in the federal budget]*. [UFMG]. GitHub Repository: https://github.com/rosa-larissa/larissa-rosa-undergraduate-thesis/tree/main)
