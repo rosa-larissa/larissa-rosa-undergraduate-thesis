@@ -40,3 +40,13 @@ Research conducted by **Larissa Rosa - www.linkedin.com/in/larissa-rosa-ms**.
 
 If you use any part of this code or methodology as a reference in your work, please use the citation below:
 > Rosa, Larissa (2023). *[PUBLIC EXPENDITURES IN BRAZIL: An analysis of gender and race transversality in the federal budget]*. [UFMG]. GitHub Repository: https://github.com/rosa-larissa/larissa-rosa-undergraduate-thesis/tree/main)
+
+## See also:
+Considerations regarding the reform of Brazil’s income tax: 
+- https://madeusp.com.br/2025/11/consideracoes-sobre-reforma-do-imposto-de-renda/
+- https://jornal.usp.br/radio-usp/isencao-do-imposto-de-renda-pode-impactar-positivamente-a-economia-a-partir-de-2026/
+
+Sensitive budget in Brazil's state capitals:
+- https://www.generonumero.media/reportagens/orcamento-sensivel-genero-capitais/
+
+
